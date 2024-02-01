@@ -1,0 +1,14 @@
+C:\Projects\C# Projects\List_GenericCollection\ClassDetails\bin\Debug\net8.0\ClassDetails.exe
+C:\Projects\C# Projects\List_GenericCollection\ClassDetails\bin\Debug\net8.0\ClassDetails.deps.json
+C:\Projects\C# Projects\List_GenericCollection\ClassDetails\bin\Debug\net8.0\ClassDetails.runtimeconfig.json
+C:\Projects\C# Projects\List_GenericCollection\ClassDetails\bin\Debug\net8.0\ClassDetails.dll
+C:\Projects\C# Projects\List_GenericCollection\ClassDetails\bin\Debug\net8.0\ClassDetails.pdb
+C:\Projects\C# Projects\List_GenericCollection\ClassDetails\obj\Debug\net8.0\ClassDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C# Projects\List_GenericCollection\ClassDetails\obj\Debug\net8.0\ClassDetails.AssemblyInfoInputs.cache
+C:\Projects\C# Projects\List_GenericCollection\ClassDetails\obj\Debug\net8.0\ClassDetails.AssemblyInfo.cs
+C:\Projects\C# Projects\List_GenericCollection\ClassDetails\obj\Debug\net8.0\ClassDetails.csproj.CoreCompileInputs.cache
+C:\Projects\C# Projects\List_GenericCollection\ClassDetails\obj\Debug\net8.0\ClassDetails.dll
+C:\Projects\C# Projects\List_GenericCollection\ClassDetails\obj\Debug\net8.0\refint\ClassDetails.dll
+C:\Projects\C# Projects\List_GenericCollection\ClassDetails\obj\Debug\net8.0\ClassDetails.pdb
+C:\Projects\C# Projects\List_GenericCollection\ClassDetails\obj\Debug\net8.0\ClassDetails.genruntimeconfig.cache
+C:\Projects\C# Projects\List_GenericCollection\ClassDetails\obj\Debug\net8.0\ref\ClassDetails.dll
